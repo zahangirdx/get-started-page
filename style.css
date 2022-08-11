@@ -1,0 +1,32 @@
+.get-started{
+    position: relative;
+    background:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.9)), url(credit.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.form{
+    background:linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.9)), url(credit2.jpg);
+}
+.text h2{
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+}
+.text h1{
+    color: rgb(0, 136, 255);
+    font-size: 100px;
+    font-weight: 800;
+}
+.text p{
+    font-size: 30px;
+    color: white;
+}
+.form h4{
+    color: white;
+    font-weight: 700;
+}
